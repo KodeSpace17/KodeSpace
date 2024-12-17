@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/showlife-genesis.com"
+		},
+		{
+			"path": "../Text Animation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My dev"
+	}
+}
